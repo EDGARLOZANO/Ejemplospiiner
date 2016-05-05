@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Ejemplospiiner</string>
+    <array name="Opciones">
+        <item>Sumar</item>
+        <item>Restar</item>
+
+
+    </array>
+</resources>
