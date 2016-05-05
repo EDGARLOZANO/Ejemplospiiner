@@ -49,7 +49,7 @@ public class principal extends AppCompatActivity {
                     case 1:
 
                         Toast.makeText(principal.this,(a-b)+"",Toast.LENGTH_LONG).show();
-                        break;
+                        break;//teaaamo34567890fghnm,
 
                 }
             }
